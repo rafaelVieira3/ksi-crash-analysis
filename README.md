@@ -31,12 +31,13 @@ Where do killed-and-severe-injury (KSI) crashes concentrate across Redondo Beach
 ## Maps and charts
 
 **Study area: Redondo Beach and Torrance**
-
+<img width="1265" height="1643" alt="study_area" src="https://github.com/user-attachments/assets/152c9bbe-18c5-4e8f-8017-bf3c2a86e71f" />
 **KSI crash density (kernel density)**
-
+<img width="1273" height="1649" alt="kde_map" src="https://github.com/user-attachments/assets/ef5f0d7d-a6bf-4da2-9c64-53a44f5c051c" />
 **High-injury corridors by KSI crash count**
-
+<img width="1273" height="1649" alt="corridors_map" src="https://github.com/user-attachments/assets/9a7aff45-f6a2-4d46-b093-0382bb5885d5" />
 **KSI crashes and pedestrian generator proximity (quarter-mile buffers)**
+<img width="1265" height="1643" alt="proximity_map" src="https://github.com/user-attachments/assets/f9758240-0b28-42a4-b088-1ef9e073388d" />
 
 Full report: [KSI_crash_analysis_report.pdf](KSI_crash_analysis_report.pdf)
 
