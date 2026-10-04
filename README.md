@@ -39,7 +39,8 @@ Where do killed-and-severe-injury (KSI) crashes concentrate across Redondo Beach
 **KSI crashes and pedestrian generator proximity (quarter-mile buffers)**
 <img width="1265" height="1643" alt="proximity_map" src="https://github.com/user-attachments/assets/f9758240-0b28-42a4-b088-1ef9e073388d" />
 
-Full report: [KSI_crash_analysis_report.pdf](KSI_crash_analysis_report.pdf)
+Full report: (KSI_crash_analysis_report.pdf)
+
 
 ## Limitations
 - Transit proximity is inflated because bus stops cover nearly the whole network; boardings per stop would be a better indicator.
