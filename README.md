@@ -1,3 +1,4 @@
+<img width="1265" height="1643" alt="study_area" src="https://github.com/user-attachments/assets/7db747f9-2a97-482e-8e20-7ddcdfdb189c" />
 # Where Severe Crashes Concentrate: KSI Collisions in Redondo Beach and Torrance
 
 ArcGIS Pro | SWITRS (via UC Berkeley TIMS), LA County CAMS centerlines, GTFS | GEOG 181A, Summer 2026
@@ -30,13 +31,17 @@ Where do killed-and-severe-injury (KSI) crashes concentrate across Redondo Beach
 
 ## Maps and charts
 
-**Study area: Redondo Beach and Torrance**
+**Study area: Redondo Beach and Torrance**<img width="1265" height="1643" alt="study_area" src="https://github.com/user-attachments/assets/9fc367c2-5633-4d2a-bcfa-5e87e6fa8f71" />
 
-**KSI crash density (kernel density)**
 
-**High-injury corridors by KSI crash count**
+**KSI crash density (kernel density)**<img width="1273" height="1649" alt="kde_map" src="https://github.com/user-attachments/assets/318f420a-3fb2-4192-ab06-14c7ce537ce7" />
 
-**KSI crashes and pedestrian generator proximity (quarter-mile buffers)**
+
+**High-injury corridors by KSI crash count**<img width="1273" height="1649" alt="corridors_map" src="https://github.com/user-attachments/assets/1964a977-c3d3-4d51-9481-059f7a33bcbd" />
+
+
+**KSI crashes and pedestrian generator proximity (quarter-mile buffers)**<img width="1265" height="1643" alt="proximity_map" src="https://github.com/user-attachments/assets/554814c2-8570-47b7-b5ca-98fa5885ab98" />
+
 
 Full report: [KSI_crash_analysis_report.pdf](KSI_crash_analysis_report.pdf)
 
