@@ -1,4 +1,3 @@
-<img width="1265" height="1643" alt="study_area" src="https://github.com/user-attachments/assets/7db747f9-2a97-482e-8e20-7ddcdfdb189c" />
 # Where Severe Crashes Concentrate: KSI Collisions in Redondo Beach and Torrance
 
 ArcGIS Pro | SWITRS (via UC Berkeley TIMS), LA County CAMS centerlines, GTFS | GEOG 181A, Summer 2026
